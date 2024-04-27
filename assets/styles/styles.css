@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f3e5d8;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+article{
+    background-color: white;
+    width: 500px;
+    padding: 30px;
+    margin:50px auto;
+    border-radius: 15px;
+}
+
+img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+h2 {
+    margin: 20px 0px;
+    font-size: 33px;
+}
+
+.principal{
+    margin-bottom: 20px;
+    font-size: 15px;
+    color:rgb(160, 156, 156);
+}
+
+.Preparation {
+    background-color: #fff7fc;
+    padding: 20px 0; 
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+.Preparation h3 {
+    color:rgb(177, 29, 182);
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.Preparation ul{
+    margin-left: 45px;
+}
+.Preparation li{
+    padding: 5px;
+}
+
+h3{
+    color: #924d3b;
+    font-size: 20px;
+    margin:20px 0px;
+}
+
+ul,ol,li{
+  margin: 5px 13px;
+  font-size: 15px;
+}
+li::marker{
+    color: #924d3b
+}
+
+hr{
+    border: 0,5px solid;
+   border-color:rgb(255, 255, 255);
+   margin: 20px ;
+   
+}
+
+.pnutrition{
+    margin: 15px 0;
+}
+
+.cantidades p{
+ border-bottom: 1px solid gainsboro;
+    color: black;
+    padding-bottom: 10px;
+
+    
+}
+
+.cantidades p span{
+    display: inline-block;
+    width: 50%;
+}
+
+.cantidades-2{
+    color: #924d3b;
+    font-weight: bold;
+}
